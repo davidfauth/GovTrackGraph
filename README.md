@@ -1,6 +1,7 @@
 GovTrackGraph
 =============
 
+<<<<<<< HEAD
 Neo4J Example of graphing GovTrack Data.
 Additional information can be found at: http://www.intelliwareness.org/?p=230
 
@@ -27,3 +28,6 @@ parser/xmlParser.java - This parses all of the XML files that were downloaded fr
 
 Importer/Importer.java - This loads the data into Neo4J.
 
+=======
+Neo4J Example of graphing GovTrack Data
+>>>>>>> ecddd70a78a9d2e7f45afe02ba542cd546d486b9
